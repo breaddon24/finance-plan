@@ -66,7 +66,7 @@ while True:
             print("Nice to meet you madam!")
             break 
     else:
-        print("Thats not a gender, please try again.")
+        print("That's not a gender, please try again.")
 
 print(asterisks)
 print(f"""
