@@ -6,4 +6,9 @@ over a 10 year period and chosen investment strategy provided.
 - Conservative (5% expected annual return)
 - Aggressive (10% expected annual return)
 
+## Features
+- 10 year projection
+- Income Validation Check
+- Easy Exit Option
+- Automatic Calculation on Savings
 
